@@ -53,3 +53,4 @@ Tagline
 
 Open agents for exploring market data.
 
+DOWNLOAD: https://github.com/wring576v7k0/OpenMarketAgents/releases/tag/OpenMarketAgents
