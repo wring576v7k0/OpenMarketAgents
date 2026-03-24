@@ -11,7 +11,7 @@ data collection from APIs and on-chain sources
 
 automated summaries and research
 
-orchestration of multiple agents
+orchestration of multiple agents 
 
 modular architecture
 
