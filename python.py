@@ -4,7 +4,7 @@ import time
 import typing
 from pathlib import Path
 
-import pytest
+import pytest 
 from mypy import api
 
 code_rxp = re.compile('```python(.*?)```', re.DOTALL | re.MULTILINE)
