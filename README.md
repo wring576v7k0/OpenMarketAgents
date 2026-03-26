@@ -5,7 +5,7 @@ The project focuses on experiments with multi-agent systems in the context of cr
 
 Features
 
-AI agents for market monitoring
+AI agents for market monitoring 
 
 data collection from APIs and on-chain sources
 
