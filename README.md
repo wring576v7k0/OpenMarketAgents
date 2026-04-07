@@ -1,4 +1,4 @@
-# OpenMarketAgents
+# OpenMarketAgents 
 OpenMarketAgents is an open-source project dedicated to creating AI agents for market analysis and the automation of research tasks. The repository provides a framework for running agents that collect data, track events, and generate concise conclusions.
 
 The project focuses on experiments with multi-agent systems in the context of crypto markets and financial analytics. Agents can be combined, custom data sources can be added, and workflows can be built for specific tasks.
